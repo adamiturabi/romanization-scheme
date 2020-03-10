@@ -88,7 +88,7 @@ Notes:
 
 + There are two options for [ج]{.ar}: _ǧ/j_ and [خ]{.ar}: _x/ḫ_. Either are acceptable.
 
-+ The transliterations of letters [ث، ذ، ض، ظ]{.ar} differ between Arabic and Persian. The base letter is different to conform to the basic pronunciation, but, to be consistent, the Roman diacritics are common.
++ The transliterations of letters [ث، ذ، ض، ظ]{.ar} differ between Arabic and Persian. The base letter is different to reflect the basic pronunciation, but, to be consistent, the Roman diacritics are common.
 
 + The letter [ظ]{.ar} is transliterated as _ḏ̣_ in Arabic and _ẕ̣_ in Persian, i.e., with combined macron below and dot below. This is a better transliteration for Arabic since [ظ]{.ar} is closer to [ذ]{.ar} than to [ز]{.ar}. _ẓ_, the usual transliteration of this Arabic letter is reserved for [ض]{.ar} in Persian.
 

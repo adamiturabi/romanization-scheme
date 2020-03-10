@@ -89,7 +89,7 @@ Notes:
 
 + The transliterations of letters [ث، ذ، ض، ظ]{.ar} differ between Arabic and Persian. The base letter is different to conform to the basic pronunciation, but, to be consistent, the Roman diacritics are common.
 
-+ The letter [ظ]{.ar} is transliterated as _ḏ̣_ in Arabic and _ẕ̣_ in Persian, i.e., with combined macron below and dot below. This is a better transliteration for Arabic since [ظ]{.ar} is closer to [ذ]{.ar} than to [ز]{.ar}. _ẓ_, the usual transliteration of this Arabic letter is reserved for [ض]{.ar} in Persian.
++ The letter [ظ]{.ar} is transliterated as _ḏ̣_ in Arabic and _ẕ̣_ in Persian, i.e., with combined macron below and dot below. This is a better transliteration for Arabic since [ظ]{.ar} is closer to [ذ]{.ar} than to [ز]{.ar}. _ẓ_, the usual transliteration of this Arabic letter is reserved for [ض]{.ar} in Persian.
 
 + The letter [ع]{.ar} is transliterated as _ɛ_ instead of the more usual _ʿ_. This is to better distinguish it from that of [ء]{.ar}: _ʾ_.
 
@@ -121,7 +121,7 @@ Urdu follows the same Romanization scheme as Persian but adds the following:
 |[ٹ]{.ar}   | ʈ        |
 |[ڈ]{.ar}   | ɖ        |
 |[ڑ]{.ar}   | ɽ        |
-|[ں]{.ar}   | n̂        |
+|[ں]{.ar}   | ň        |
 |[ھ]{.ar}   | ʰ        |
 
 Note:

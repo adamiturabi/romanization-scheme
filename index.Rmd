@@ -49,39 +49,40 @@ We first present the romanization scheme for Arabic and Classical Persian. We bo
 ## Consonants
 
 | Consonant | Arabic rom. | Persian rom. |
-|:----------|:------------|:-------------|
-|[ء]{.ar}  | ʾ           |              |
-|[ب]{.ar}  | b           |              |
-|[پ]{.ar}  |             | p            |
-|[ت]{.ar}  | t           |              |
-|[ث]{.ar}  | ṯ           | s̱            |
-|[ج]{.ar}  | ǧ/j         |              |
-|[چ]{.ar}  |             | č            |
-|[ح]{.ar}  | ḥ           |              |
-|[خ]{.ar}  | x/ḫ         |              |
-|[د]{.ar}  | d           |              |
-|[ذ]{.ar}  | ḏ           | ẕ            |
-|[ر]{.ar}  | r           |              |
-|[ز]{.ar}  | z           |              |
-|[ژ]{.ar}  |             | ž            |
-|[س]{.ar}  | s           |              |
-|[ش]{.ar}  | š           |              |
-|[ص]{.ar}  | ṣ           |              |
-|[ض]{.ar}  | ḍ           | ẓ            |
-|[ط]{.ar}  | ṭ           |              |
-|[ظ]{.ar}  | ḏ̣           | ẕ̣            |
-|[ع]{.ar}  | ɛ           |              |
-|[غ]{.ar}  | ġ           |              |
-|[ف]{.ar}  | f           |              |
-|[ق]{.ar}  | q           |              |
-|[ك/ک]{.ar}| k           |              |
-|[گ]{.ar}  |             | g            |
-|[ل]{.ar}  | l           |              |
-|[م]{.ar}  | m           |              |
-|[ن]{.ar}  | n           |              |
-|[ه]{.ar}  | h           |              |
-|[و]{.ar}  | w           | v/w          |
-|[ي/ی]{.ar}| y           |              |
+|:---------|:--------|:-------|
+|[ء]{.ar}  | ʾ       |        |
+|[ب]{.ar}  | b       |        |
+|[پ]{.ar}  | –       | p      |
+|[ت]{.ar}  | t       |        |
+|[ث]{.ar}  | ṯ       | s̱      |
+|[ج]{.ar}  | ǧ/j     |        |
+|[چ]{.ar}  | –       | č      |
+|[ح]{.ar}  | ḥ       |        |
+|[خ]{.ar}  | x/ḫ     |        |
+|[د]{.ar}  | d       |        |
+|[ذ]{.ar}  | ḏ       | ẕ      |
+|[ر]{.ar}  | r       |        |
+|[ز]{.ar}  | z       |        |
+|[ژ]{.ar}  | –       | ž      |
+|[س]{.ar}  | s       |        |
+|[ش]{.ar}  | š       |        |
+|[ص]{.ar}  | ṣ       |        |
+|[ض]{.ar}  | ḍ       | ẓ      |
+|[ط]{.ar}  | ṭ       |        |
+|[ظ]{.ar}  | ḏ̣       | ẕ̣      |
+|[ع]{.ar}  | ɛ       |        |
+|[غ]{.ar}  | ġ       |        |
+|[ف]{.ar}  | f       |        |
+|[ق]{.ar}  | q       |        |
+|[ك/ک]{.ar}| k       |        |
+|[گ]{.ar}  | –       | g      |
+|[ل]{.ar}  | l       |        |
+|[م]{.ar}  | m       |        |
+|[ن]{.ar}  | n       |        |
+|[ه]{.ar}  | h       | h,–      |
+|[و]{.ar}  | w       | v/w    |
+|[ي/ی]{.ar}| y       |        |
+|[ة]{.ar}  | ḧ,ẗ     |        |
 
 Notes:
 
@@ -92,6 +93,10 @@ Notes:
 + The letter [ظ]{.ar} is transliterated as _ḏ̣_ in Arabic and _ẕ̣_ in Persian, i.e., with combined macron below and dot below. This is a better transliteration for Arabic since [ظ]{.ar} is closer to [ذ]{.ar} than to [ز]{.ar}. _ẓ_, the usual transliteration of this Arabic letter is reserved for [ض]{.ar} in Persian.
 
 + The letter [ع]{.ar} is transliterated as _ɛ_ instead of the more usual _ʿ_. This is to better distinguish it from that of [ء]{.ar}: _ʾ_.
+
++ [ة]{.ar} is transcribed as ḧ in pausa and ẗ in construct or when transcribed with full inflection. This is better than not transcribing it at all in pausa because the "h" sound is clearly audible in words like [مِرْآة]{.ar}.
+
++ [ه]{.ar} may be skipped in Persian transcription in words like [خانه]{.ar}.
 
 ## Vowels
 

@@ -41,3 +41,91 @@ output:
 # Introduction
 
 Arabic, Persian, and Urdu all use the Arabic script. However, they are often transcribed/transliterated with independent schemes. We present a romanization scheme that is consistent and is suitable for works that deal with more than one of the above languages
+
+# Romanization scheme
+
+We first present the romanization scheme for Arabic and Classical Persian. We borrow from the schemes in Wikipedia ^[https://en.wikipedia.org/wiki/Romanization_of_Persian], ^[https://en.wikipedia.org/wiki/Romanization_of_Arabic] but we modify them to be consistent. Entries are only shown in the "Persian romanization" column if they don't exist, or are different in the Arabic romanization.
+
+## Consonants
+
+| Consonant | Arabic rom. | Persian rom. |
+|:----------|:------------|:-------------|
+|[ء]{.ar}  | ʾ           |              |
+|[ب]{.ar}  | b           |              |
+|[پ]{.ar}  | -           | p            |
+|[ت]{.ar}  | t           |              |
+|[ث]{.ar}  | ṯ           | s̱            |
+|[ج]{.ar}  | ǧ/j         |              |
+|[چ]{.ar}  | -           | č            |
+|[ح]{.ar}  | ḥ           |              |
+|[خ]{.ar}  | x/ḫ         |              |
+|[د]{.ar}  | d           |              |
+|[ذ]{.ar}  | ḏ           | ẕ            |
+|[ر]{.ar}  | r           |              |
+|[ز]{.ar}  | z           |              |
+|[ژ]{.ar}  | -           | ž            |
+|[س]{.ar}  | s           |              |
+|[ش]{.ar}  | š           |              |
+|[ص]{.ar}  | ṣ           |              |
+|[ض]{.ar}  | ḍ           | ẓ            |
+|[ط]{.ar}  | ṭ           |              |
+|[ظ]{.ar}  | ḏ̣           | ẕ̣            |
+|[ع]{.ar}  | ɛ           |              |
+|[غ]{.ar}  | ġ           |              |
+|[ف]{.ar}  | f           |              |
+|[ق]{.ar}  | q           |              |
+|[ك/ک]{.ar}| k           |              |
+|[گ]{.ar}  | -           | g            |
+|[ل]{.ar}  | l           |              |
+|[م]{.ar}  | m           |              |
+|[ن]{.ar}  | n           |              |
+|[ه]{.ar}  | h           |              |
+|[و]{.ar}  | w           | v/w          |
+|[ي]{.ar}  | y           |              |
+
+Notes:
+
++ There are two options for [ج]{.ar}: _ǧ/j_ and [خ]{.ar}: _x/ḫ_. Either are acceptable.
+
++ The transliterations of letters [ث، ذ، ض، ظ]{.ar} differ between Arabic and Persian. The base letter is different to conform to the basic pronunciation, but, to be consistent, the Roman diacritics are common.
+
++ The letter [ظ]{.ar} is transliterated as _ḏ̣_ in Arabic and _ẕ̣_ in Persian, i.e., with combined macron below and dot below. This is a better transliteration for Arabic since [ظ]{.ar} is closer to [ذ]{.ar} than to [ز]{.ar}. _ẓ_, the usual transliteration of this Arabic letter is reserved for [ض]{.ar} in Persian.
+
++ The letter [ع]{.ar} is transliterated as _ɛ_ instead of the more usual _ʿ_. This is to better distinguish it from that of [ء]{.ar}: _ʾ_.
+
+## Vowels
+
+| Vowel     | Arabic rom. | Persian rom. |
+|:----------|:------------|:-------------|
+|[ـَ]{.ar}  | a            |              |
+|[ـِ]{.ar}  | i            |              |
+|[ـُ]{.ar}  | u            |              |
+|[ـَا]{.ar} | ā            |              |
+|[ـِی]{.ar} | ī            |              |
+|[ـُو]{.ar} | ū            |              |
+|[ـَوْ]{.ar} | aw           |              |
+|[ـَیْ]{.ar} | ay           |              |
+|[ـوࣳ]{.ar} | -            | ō            |
+|[ـیۧ]{.ar} | -            | ē            |
+
+Note:
+
++ Regarding the diacritics of the _majhūl_ vowels in the Arabic script, see this article: ^[ https://adamiturabi.github.io/urdu-diacritics/]
+
+## Romanization of Urdu
+
+Urdu follows the same Romanization scheme as Persian but adds the following:
+
+| Consonant | Urdu rom.|
+|:----------|:---------|
+|[ٹ]{.ar}   | ʈ        |
+|[ڈ]{.ar}   | ɖ        |
+|[ڑ]{.ar}   | ɽ        |
+|[ں]{.ar}   | n̂        |
+|[ھ]{.ar}   | ʰ        |
+
+Note:
+
++ Transliteration of retroflex consonants and aspiration is taken from IPA.
+
+

@@ -69,7 +69,7 @@ We first present the romanization scheme for Arabic and Classical Persian. We bo
 |[ص]{.ar}  | ṣ           |              |
 |[ض]{.ar}  | ḍ           | ẓ            |
 |[ط]{.ar}  | ṭ           |              |
-|[ظ]{.ar}  | ḏ̣           | ẕ̣            |
+|[ظ]{.ar}  | ḏ̣           | ẕ̣            |
 |[ع]{.ar}  | ɛ           |              |
 |[غ]{.ar}  | ġ           |              |
 |[ف]{.ar}  | f           |              |

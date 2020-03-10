@@ -52,18 +52,18 @@ We first present the romanization scheme for Arabic and Classical Persian. We bo
 |:----------|:------------|:-------------|
 |[ء]{.ar}  | ʾ           |              |
 |[ب]{.ar}  | b           |              |
-|[پ]{.ar}  | -           | p            |
+|[پ]{.ar}  |             | p            |
 |[ت]{.ar}  | t           |              |
 |[ث]{.ar}  | ṯ           | s̱            |
 |[ج]{.ar}  | ǧ/j         |              |
-|[چ]{.ar}  | -           | č            |
+|[چ]{.ar}  |             | č            |
 |[ح]{.ar}  | ḥ           |              |
 |[خ]{.ar}  | x/ḫ         |              |
 |[د]{.ar}  | d           |              |
 |[ذ]{.ar}  | ḏ           | ẕ            |
 |[ر]{.ar}  | r           |              |
 |[ز]{.ar}  | z           |              |
-|[ژ]{.ar}  | -           | ž            |
+|[ژ]{.ar}  |             | ž            |
 |[س]{.ar}  | s           |              |
 |[ش]{.ar}  | š           |              |
 |[ص]{.ar}  | ṣ           |              |
@@ -75,13 +75,13 @@ We first present the romanization scheme for Arabic and Classical Persian. We bo
 |[ف]{.ar}  | f           |              |
 |[ق]{.ar}  | q           |              |
 |[ك/ک]{.ar}| k           |              |
-|[گ]{.ar}  | -           | g            |
+|[گ]{.ar}  |             | g            |
 |[ل]{.ar}  | l           |              |
 |[م]{.ar}  | m           |              |
 |[ن]{.ar}  | n           |              |
 |[ه]{.ar}  | h           |              |
 |[و]{.ar}  | w           | v/w          |
-|[ي]{.ar}  | y           |              |
+|[ي/ی]{.ar}| y           |              |
 
 Notes:
 

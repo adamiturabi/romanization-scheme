@@ -82,7 +82,7 @@ We first present the romanization scheme for Arabic and Classical Persian. We bo
 |[ه]{.ar}  | h       | h,–      |
 |[و]{.ar}  | w       | v/w    |
 |[ي/ی]{.ar}| y       |        |
-|[ة]{.ar}  | ḧ,ẗ     |        |
+|[ة]{.ar}  | ḧ,ẗ,t   |        |
 
 Notes:
 
@@ -94,7 +94,7 @@ Notes:
 
 + The letter [ع]{.ar} is transliterated as _ɛ_ instead of the more usual _ʿ_. This is to better distinguish it from that of [ء]{.ar}: _ʾ_.
 
-+ [ة]{.ar} is transcribed as ḧ in pausa and ẗ in construct or when transcribed with full inflection. This is better than not transcribing it at all in pausa because the "h" sound is clearly audible in words like [مِرْآة]{.ar}.
++ [ة]{.ar} is transcribed as [t]{.trn} in fully vowelized Arabic transcription, e.g. [مِنْ جِهَةٍ أُخْرَى]{.ar} _min jihatin ʾuxrā_. Otherwise, in pausa pronunciation _ḧ_ is to be used except in the construct state where _ẗ_ is to be used. Examples: [الصفة المشبهة]{.ar} _al-ṣifaḧ al-mušabbahaḧ_,  [عَلامَة تأنيث]{.ar} [ealAmaẗ taʾnIṯ]{.trn}. This scheme is better than not transcribing it at all in pausa because the "h" sound is clearly audible in words like [مِرْآة]{.ar}.
 
 + [ه]{.ar} may be skipped in Persian transcription in words like [خانه]{.ar} _xāna_.
 
